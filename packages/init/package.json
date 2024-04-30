@@ -1,0 +1,23 @@
+{
+  "name": "@mason.com/init",
+  "version": "0.0.0",
+  "description": "> init command",
+  "author": "fengliushijie <1099216627@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@mason.com/command": "^0.0.0",
+    "@mason.com/utils": "^0.0.0"
+  }
+}

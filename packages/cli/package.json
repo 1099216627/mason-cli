@@ -1,0 +1,34 @@
+{
+  "name": "@mason.com/cli",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "fengliushijie <1099216627@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "bin": {
+    "mason": "bin/cli.js"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@mason.com/init": "^0.0.0",
+    "@mason.com/utils": "^0.0.0",
+    "chalk": "4.1.0",
+    "commander": "^12.0.0",
+    "import-local": "^3.1.0",
+    "semver": "^7.6.0"
+  }
+}

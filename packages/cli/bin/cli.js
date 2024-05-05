@@ -1,14 +1,15 @@
 #!/usr/bin/env node
 
-const importLocal = require('import-local');
-const { log } = require('@mason.com/utils');
-const entry = require('../lib/index.js');// 引入入口文件
-const process = require('process');
+import importLocal from 'import-local'
+import { log } from '@mason.com/utils'
+import entry from '../lib/index.js' // 引入入口文件
+import { filename } from 'dirname-filename-esm'
 
-// ! 这里需要更改
+const __filename = filename(import.meta)
+
 if (importLocal(__filename)) {
-    log.info('cli', '正在使用本地版本');
+  log.info('cli', '正在使用本地版本')
 } else {
-    // 启动入口文件
-    entry(process.argv.slice(2)); // 传入参数
+  // 启动入口文件
+  entry()
 }

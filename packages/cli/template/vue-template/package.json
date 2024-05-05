@@ -1,0 +1,14 @@
+{
+  "name": "@mason.com/template-vue",
+  "version": "1.0.1",
+  "description": "mason-cli vue3 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mason",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}

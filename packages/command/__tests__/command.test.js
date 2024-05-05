@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-const command = require('..');
+const command = require('..')
 
 describe('command', () => {
-    it('needs tests');
-});
+  it('needs tests')
+})

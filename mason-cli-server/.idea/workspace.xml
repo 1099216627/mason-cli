@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23c864c4-7328-441a-b7b6-8c4fa586b3b0" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/mason-cli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../packages/cli/template/vue-template/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/__tests__/cli.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/__tests__/cli.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/bin/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/bin/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/ansi-styles/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/ansi-styles/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/ansi-styles/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/ansi-styles/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/ansi-styles/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/ansi-styles/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/ansi-styles/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/license" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/source/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/source/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/source/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/chalk/source/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/color-convert/conversions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/color-convert/conversions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/color-convert/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/color-convert/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/color-convert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/color-convert/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/color-convert/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/color-convert/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/color-name/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/color-name/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/esm.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/esm.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/argument.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/argument.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/option.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/lib/option.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/typings/esm.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/node_modules/commander/typings/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/node_modules/commander/typings/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/command/__tests__/command.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/command/__tests__/command.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/command/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/command/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/command/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/command/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/init/__tests__/init.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/init/__tests__/init.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/init/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/init/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/init/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/init/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/utils/__tests__/utils.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/utils/__tests__/utils.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/utils/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/utils/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/utils/lib/log.js" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/utils/lib/log.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/utils/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/utils/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/utils/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/utils/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../packages/utils/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4a49c053-f4fb-48d1-8320-402abea1cfad" />
+  </component>
+  <component name="ProjectId" id="2g2NIsiyVluuViLd3cnmkLPMl9H" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/fengliushijie/Desktop/vscode files/mason-cli/mason-cli-server",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="23c864c4-7328-441a-b7b6-8c4fa586b3b0" name="更改" comment="" />
+      <created>1714891636005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714891636005</updated>
+      <workItem from="1714891637239" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

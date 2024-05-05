@@ -1,0 +1,12 @@
+{
+  "name": "@mason.com/mason-cli-server",
+  "version": "1.0.0",
+  "description": "mason-cli-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mason",
+  "license": "ISC"
+}
